@@ -1,7 +1,0 @@
-C:\Users\shawn\Desktop\VMTranslator\obj\Debug\VMTranslator.csproj.CoreCompileInputs.cache
-C:\Users\shawn\Desktop\VMTranslator\bin\Debug\VMTranslator.exe.config
-C:\Users\shawn\Desktop\VMTranslator\bin\Debug\VMTranslator.exe
-C:\Users\shawn\Desktop\VMTranslator\bin\Debug\VMTranslator.pdb
-C:\Users\shawn\Desktop\VMTranslator\obj\Debug\VMTranslator.exe
-C:\Users\shawn\Desktop\VMTranslator\obj\Debug\VMTranslator.pdb
-C:\Users\shawn\Desktop\VMTranslator\obj\Debug\VMTranslator.csprojAssemblyReference.cache
